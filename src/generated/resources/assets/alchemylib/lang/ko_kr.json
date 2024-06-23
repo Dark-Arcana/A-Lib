@@ -1,0 +1,9 @@
+{
+  "alchemylib.container.close_recipe_select": "제작법 선택 닫기",
+  "alchemylib.container.lock_recipe": "제작법 잠금",
+  "alchemylib.container.open_recipe_select": "제작법 선택 열기",
+  "alchemylib.container.pause": "일시 중지",
+  "alchemylib.container.resume": "다시 시작",
+  "alchemylib.container.show_recipes": "제작법 보기",
+  "alchemylib.container.unlock_recipe": "제작법 잠금 해제"
+}
