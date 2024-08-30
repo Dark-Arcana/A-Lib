@@ -1,0 +1,9 @@
+{
+  "alchemylib.container.close_recipe_select": "Tarif Seçimini Kapat",
+  "alchemylib.container.lock_recipe": "Tarifi kilitle",
+  "alchemylib.container.open_recipe_select": "Tarif Seçimini Aç",
+  "alchemylib.container.pause": "Duraklat",
+  "alchemylib.container.resume": "Devam et",
+  "alchemylib.container.show_recipes": "Tarifleri Göster",
+  "alchemylib.container.unlock_recipe": "Tarifin kilidini aç"
+}
